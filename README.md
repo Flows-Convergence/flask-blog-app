@@ -10,3 +10,4 @@ A Blog app created using flask framework in python
 6
 7
 =======
+8
